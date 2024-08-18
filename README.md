@@ -1,35 +1,15 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Facundo Arias
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Buenas, me llamo Facundo Arias y tengo 19 años. Estoy en mi segundo año de tecnicatura en programación, carrera la cual inicié a principios de 2023, apenas terminado el secundario el año anterior. Me inscribí en esta carrera luego de evaluar cuales eran las opciones que más me intereseban y decidir que el plan de estudio de esta carrera era la que más me gustaba.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+La computación comenzó a llamarme la atención a partir de la adolescencia; comencé a preguntarme como funciona una computdora, un celular... cualquier objeto "inteligente". Naturalmente, esto hizo que me incline a estudiar una carrera relacionada a la informática.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+En un futuro, me gustaría trabajar remotamente, elaborar proyectos, colaborar con mis compañeros de trabajo. etc. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Mis gustos:
+* Desde que tengo memoria, siempre me gustó practicar deporte, ya sea fútbol, natación, boxeo, voley y handball. Aunque últimamente dejé un poco de lado el deporte, estoy enfocado en el gimnasio para no estar fuera de forma je.
+* Al igual que el deporte, la música es un gran pilar en mi vida. No toco ningún instrumento, aunque me gustaría aprender; siempre escuchar escuchar música me despeja y me pone de buen humor. Soy fan de los red hot chili peppers y me gusta eminem. Yendo a lo nacional me gusta soda stereo y babásonicos; y algo más actual, me gusta mucho el cordobés luck ra.
+* En el último tiempo, comenzó a darme mucha curiosidad el mundo del cine, me gusta mirar muchas películas. Mis preferidas son Forrest Gump, Django, Shutter Island y Goodfellas. Los directores que más me gustan son Scorsese, Tarantino y Nolan.
